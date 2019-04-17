@@ -4,7 +4,7 @@
 
 viewcontroller.swift
 
-```
+```a.swift
 import UIKit
 
 class ViewController: UIViewController {
@@ -13,7 +13,7 @@ class ViewController: UIViewController {
 ```
 ***
 
-```
+```a.swift
 @IBOutlet var label: UILabel!
 ```
 =>ストーリーボード上で「label」という名前のUILabel部品を使用すること
@@ -21,7 +21,7 @@ class ViewController: UIViewController {
 
 ***
 
-```
+```a.swift
 var number : Int = 0
 ```
 =>Int (整数)という型の変数の名前「number」を使用する。初期値は0に設定
